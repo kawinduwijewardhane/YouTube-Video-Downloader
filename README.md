@@ -25,12 +25,12 @@ Change to the project directory:
 ```bash
 cd YouTube-Video-Downloader
 ```
-Replace the video_link variable with the URL of the YouTube video you want to download in the your_script.py file.
+Replace the video_link variable with the URL of the YouTube video you want to download in the download.py file.
 
 Run the script:
 
 ```bash
-python your_script.py
+python download.py
 ```
 ## The script will download the video with the best available quality.
 
